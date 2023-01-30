@@ -48,8 +48,12 @@ from django.contrib import admin
 from .models import Employee,EmployeeAdmin
 admin.site.register(Employee,EmployeeAdmin)
 
+```
+
 ## OUTPUT
-![OUTPUT](./Out.png)
+
+![OUTPUT](./out.png)
 
 ## RESULT
+
 Program executed successfully
